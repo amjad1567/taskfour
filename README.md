@@ -8,8 +8,8 @@
 This repository contains two simple programs (one in Rust and one in PHP) that print a personalized greeting along with the current time. The programs are configured to show the current time in Indian Standard Time (IST).
 
 ## Contents
-- **taskfour**: Rust project that prints a greeting with the current time.
-- **taskfour.php**: PHP file that prints a greeting with the current time.
+- taskfour: Rust project that prints a greeting with the current time.
+- taskfour.php: PHP file that prints a greeting with the current time.
 
 ## Rust Program
 ### Description
@@ -24,6 +24,7 @@ Clone this repository:
 
 ```
 git clone https://github.com/amjad1567/Taskfour.git
+
 cd Taskfour
 ```
 
@@ -68,17 +69,6 @@ The PHP script will output:
 Hello Amjad Ameen, right now the time is <current_date> <current_time>
 ```
 ```
-
-Once you update the README file, commit the changes and push them to your GitHub repo with:
-
-```bash
-git add README.md
-git commit -m "Update README with name change to Amjad Ameen"
-git push
-```
-
-This will reflect the new name in the repo. Let me know if you need any other adjustments!
-In the terminal, navigate to the project directory:
 
 cd Taskfour
 Run the PHP script:
