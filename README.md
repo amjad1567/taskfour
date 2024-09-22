@@ -23,7 +23,7 @@ Hello Amjad Ameen, right now the time is <current time>
 Clone this repository:
 
 ```
-git clone https://github.com/AbhiramT21/Taskfour.git
+git clone https://github.com/amjad1567/Taskfour.git
 cd Taskfour
 ```
 
